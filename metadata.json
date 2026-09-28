@@ -1,0 +1,6 @@
+{
+  "name": "VittaLeito — Camas e Colchões Hospitalares",
+  "description": "Especialistas em Camas Hospitalares Elétricas, Manuais e Colchões Terapêuticos para Home Care e Clínicas. Atendimento consultivo imediato via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
